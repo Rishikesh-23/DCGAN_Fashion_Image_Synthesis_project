@@ -133,7 +133,9 @@ Sample Outputs:
 
 ## **Contributors**
 
-- **Rishikesh** - Developer  
+- **Rishikesh** - Developer
+- LinkedIn: www.linkedin.com/in/rishikesh-a12090285
+- Email: rishikesh23@kgpian.iitkgp.ac.in
 
 
 ---
