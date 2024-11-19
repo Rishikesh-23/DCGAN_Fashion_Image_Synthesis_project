@@ -112,7 +112,7 @@ DCGAN_Fashion_Image_Synthesis/
 
 ## **Results**
 
-- **Generated Images**: Successfully synthesized realistic images of clothing items after training for **X epochs**.
+- **Generated Images**: Successfully synthesized realistic images of clothing items after training for **50 epochs**.
 - **Visualization**: Improved image quality observed over epochs. Generated samples are saved in the `results/generated_images` directory.
 
 Sample Outputs:  
